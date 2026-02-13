@@ -8,35 +8,38 @@ Bu Chrome eklentisi, Temu web sitesinde gezinirken yerel satıcılar tarafından
 
 ## Özellikler
 
--   Sayfadaki "Yerel Depodan" (Local Warehouse) ibaresi bulunan ürünleri otomatik olarak tespit eder.
--   Bu ürünleri listeden kaldırarak daha temiz bir görünüm sağlar.
+- Sayfadaki "Yerel Depodan" (Local Warehouse) ibaresi bulunan ürünleri otomatik olarak tespit eder.
+- Bu ürünleri listeden kaldırarak daha temiz bir görünüm sağlar.
 
 ## Kurulum
 
 ### Yöntem 1: Chrome Web Mağazası (Önerilen)
+
 En kolay ve güvenli kurulum için eklentiyi resmi Chrome Web Mağazası'ndan yükleyebilirsiniz:
+
 [👉 **Chrome'a Ekle**](https://chromewebstore.google.com/detail/temu-hide-local-products/eahpdbpdonhoddncfbodpjaegkhcfalc)
 
 ### Yöntem 2: Manuel Kurulum (Geliştiriciler İçin)
+
 Eğer kaynak kodundan yüklemek isterseniz aşağıdaki adımları izleyin:
 
-1.  **İndirme:**
+1. **İndirme:**
     Eklentinin son sürümünü şu bağlantıdan indirin: [İndir (ZIP)](https://bit.ly/remove-local-temu)
 
-2.  **Dosyaları Çıkarma:**
+2. **Dosyaları Çıkarma:**
     İndirdiğiniz `.zip` dosyasını sağ tıklayıp "Tümünü Ayıkla" veya "Buraya Çıkart" diyerek bir klasöre çıkartın.
 
-3.  **Chrome Uzantılar Sayfasını Açma:**
+3. **Chrome Uzantılar Sayfasını Açma:**
     Google Chrome tarayıcısını açın ve adres çubuğuna şunu yazıp Enter'a basın:
     `chrome://extensions/`
 
-4.  **Geliştirici Modunu Açma:**
+4. **Geliştirici Modunu Açma:**
     Sayfanın sağ üst köşesindeki **"Geliştirici modu" (Developer mode)** anahtarını açık konuma getirin.
 
-5.  **Eklentiyi Yükleme:**
+5. **Eklentiyi Yükleme:**
     Sol üstte beliren **"Paketlenmemiş öğe yükle" (Load unpacked)** butonuna tıklayın.
 
-6.  **Klasörü Seçme:**
+6. **Klasörü Seçme:**
     2. adımda ayıkladığınız klasörü (içinde `manifest.json` dosyası olan klasörü) seçin ve "Seç" veya "Tamam" butonuna tıklayın.
 
 Tebrikler! Eklenti başarıyla yüklendi. Artık Temu'da gezinirken eklenti otomatik olarak çalışacaktır.
@@ -44,4 +47,3 @@ Tebrikler! Eklenti başarıyla yüklendi. Artık Temu'da gezinirken eklenti otom
 ## Geliştiren
 
 **Sezer İltekin** - [x.com/sezeriltekin](https://x.com/sezeriltekin)
-
