@@ -1,6 +1,6 @@
 # Yerel Satıcıları Gizle (Temu)
 
-[![Chrome Web Mağazası'nda Mevcut](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/i74j1a9z7g7b2j8k8k4h.png)](https://chromewebstore.google.com/detail/temu-hide-local-products/eahpdbpdonhoddncfbodpjaegkhcfalc)
+[![Chrome Web Mağazası'nda Mevcut](https://lh3.googleusercontent.com/F_j2_MJ6JNyPBKWTGswcZt5_O5TIADUKL3m0cPJ4ofL3x8Yclot4_rX-k_L_biZddx6gC7jH-FhdNPUcfxYirz3NEA=s1280-w1280-h800)](https://chromewebstore.google.com/detail/temu-hide-local-products/eahpdbpdonhoddncfbodpjaegkhcfalc)
 
 > 🦊 **Firefox kullanıyorsanız** lütfen bu branch'i kullanınız: [https://github.com/iltekin/remove-local-temu/tree/firefox](https://github.com/iltekin/remove-local-temu/tree/firefox)
 
