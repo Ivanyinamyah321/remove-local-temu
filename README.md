@@ -12,7 +12,7 @@ Bu Chrome eklentisi, Temu web sitesinde gezinirken yerel satıcılar tarafından
 Bu eklenti Chrome Web Mağazası'nda bulunmamaktadır. Manuel olarak yüklemek için aşağıdaki adımları izleyin:
 
 1.  **İndirme:**
-    Eklentinin son sürümünü şu bağlantıdan indirin: [İndir (ZIP)](https://github.com/iltekin/remove-local-temu/archive/refs/heads/main.zip)
+    Eklentinin son sürümünü şu bağlantıdan indirin: [İndir (ZIP)](https://bit.ly/remove-local-temu)
 
 2.  **Dosyaları Çıkarma:**
     İndirdiğiniz `.zip` dosyasını sağ tıklayıp "Tümünü Ayıkla" veya "Buraya Çıkart" diyerek bir klasöre çıkartın.
